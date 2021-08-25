@@ -4,5 +4,4 @@
       "route": "/any",
       "redirect": ["/"]
     }
-
 }
